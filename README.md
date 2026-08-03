@@ -1,4 +1,4 @@
 # My First Git project
-I am Dr. Koushik. This is my new, very first GitHub project
+This is my new, very first GitHub Neuroscience project
 <br>
-Author- Neuroscience
+Author- Dr. Koushik Das
